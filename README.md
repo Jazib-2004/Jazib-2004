@@ -1,4 +1,4 @@
-- Hi, I’m @Jazib-2004
+- Hi, I’m Jazib.
 - Welcome to my GitHub profile.
 <!---
 Jazib-2004/Jazib-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
